@@ -1,0 +1,26 @@
+{
+  "name": "Aspen Gold",
+  "short_name": "Aspen",
+  "description": "Aspen Gold: Where the evening never feels rushed",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7f1f5",
+  "theme_color": "#7d3c6a",
+  "lang": "en",
+  "dir": "ltr",
+  "orientation": "portrait-primary",
+  "categories": [
+    "travel",
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
