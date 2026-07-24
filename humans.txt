@@ -1,0 +1,9 @@
+/* TEAM */
+Hospitality: Aspen Gold team
+Concierge: 24/7
+Location: New York, US
+
+/* SITE */
+Last update: 2026-07-24
+Language: English
+Standards: HTML5, CSS3, Schema.org
